@@ -7,9 +7,13 @@ This is a fully responsive web-based music player built using HTML, CSS, and Jav
 Features
 
 Responsive Design: Adapts seamlessly to different screen sizes and devices.
+
 Playback Controls: Includes play, pause, next, and previous buttons.
+
 Dynamic Progress Bar: Tracks the song’s playback progress.
+
 Volume Control: Adjust the volume directly from the player.
+
 
 Technologies Used
 
