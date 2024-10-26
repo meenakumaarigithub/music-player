@@ -18,5 +18,7 @@ Volume Control: Adjust the volume directly from the player.
 Technologies Used
 
 HTML: For the structure of the web pages.
+
 CSS: For styling and layout.
+
 JavaScript: For interactivity and functionality.
